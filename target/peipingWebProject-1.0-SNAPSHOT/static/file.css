@@ -1,0 +1,36 @@
+.main {
+	width: 520px;
+	height: 500px;
+	background:#4892ff;
+	margin-top: 34px;
+	margin-left: 40px;
+	/*float:left;*/
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+    border-radius: 20px;
+	border: 1px solid black
+}
+
+.dragarea {
+    width: 400px;
+	height: 400px;
+	margin-top: 50px;
+	margin-left: 60px;
+	float: left;
+	background-color: white;
+	border-radius: 50px;
+	
+}
+
+.text {
+	position :absolute;
+	color: grey;
+	
+	width: 200px;
+	height: auto;
+	margin: 35% 25%;
+}

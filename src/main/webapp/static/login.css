@@ -1,0 +1,103 @@
+body {
+	background: rgb(255, 255, 255);
+}
+
+.app-nav {
+	margin:25px 60px 0 0;
+	position:absolute;
+	right:0;
+	text-align:end;
+	z-index:10;
+	color: #5698b5;
+	/* font-size: 18px; */
+}
+
+.login {
+	width: 520px;
+	height: 400px;
+	background:#4892ff;
+	margin-top: 34px;
+	margin-left: 40px;
+	/*float:left;*/
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+    border-radius: 20px;
+}
+
+.logoImg {
+	width: 64px;
+	height: 40px;
+	margin-top: 32px;
+	margin-left: 228px;
+	margin-bottom: 8px;
+}
+
+.username,
+.pwd{
+	width: 400px;
+	height: 80px;
+	border-bottom: 1px solid #efefef;
+	margin: 0 48px;
+	/*line-height:60px;*/
+}
+
+.userImg,
+.pwdImg {
+	width: 40px;
+	height: 40px;
+	margin-top: 20px;
+	float: left;
+}
+
+.Inp {
+	width: 300px;
+	height: 45px;
+	margin-top: 18px;
+	border: none;
+	outline: none;
+	margin-left: 20px;
+    border-radius: 12.5px;
+}
+
+.forgetPwd {
+	width: 400px;
+	height: 60px;
+	border-bottom: 1px solid #efefef;
+	margin: 0 48px;
+	/*line-height:60px;*/
+}
+
+.forgetImg {
+	width: 30px;
+	height: 30px;
+	margin-top: 17px;
+	float: left;
+}
+
+.forgetLink {
+	margin-top:20px;
+	margin-left: 15px;
+	padding-left: 5px;
+	width: 90px;
+	background: #a2e3ee1d;
+    border-radius: 5px;
+    border: none;
+    color: rgb(255, 255, 255);
+    /*opacity:1;*/
+}
+
+.btn {
+	width: 360px;
+	height: 40px;
+	background: #0f6bf6;
+	border: 1px solid #326dcc;
+	color: #fff;
+	font-size: 16px;
+	margin-left: 80px;
+    border-radius: 20px;
+}
+

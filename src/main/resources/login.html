@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>登录页面</title>
+    <link rel="stylesheet" type="text/css" href="static/login.css"/>
+</head>
+<body>
+    <nav class="app-nav">
+        <ul>
+            <li><a href="#">抬头1</a></li>
+            <li><a href="#">抬头2</a></li>
+            <li><a href="#">抬头3</a></li>
+            <li><a href="#">抬头4</a></li>
+            
+        </ul>
+    </nav>
+    <div class="login" border-radius: 50%>
+        <form action="login" method="post">
+            <!-- <img class="logoImg" src="img/img_01.png"/> -->
+            <br><br><br><br>
+            <div class="username">
+                <img class="userImg" src="static/img/usrname.png"/>
+                <input class="Inp" type="text" placeholder="请输入用户名" name="username"/>
+            </div>
+            <div class="pwd" >
+                <img class="pwdImg" src="static/img/pwd.png"/>
+                <input class="Inp" type="password" placeholder="请输入密码" name="password"/>
+            </div>
+            <div class="forgetPwd">
+                <img class="forgetImg" src="static/img/forgetpwd.png"/>
+                <button class="forgetLink">忘记密码</button>
+            </div>
+            <br>
+            <button class="btn" type="submit">登录</button>
+        </form>
+    </div>
+</body>
+</html>

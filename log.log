@@ -1,0 +1,66 @@
+九月 16, 2022 9:46:39 下午 edu.is.util.ExcelUtil readExcel
+信息: 开始读取excel文件peiping.xlsx
+九月 16, 2022 9:46:40 下午 edu.is.util.ExcelUtil readExcel
+信息: 读取成功
+九月 16, 2022 9:46:40 下午 edu.is.util.LkUtil pingDan
+信息: 开始拼单
+九月 16, 2022 9:46:40 下午 edu.is.util.LkUtil pingDan
+信息: 当未知数只有一个时
+九月 16, 2022 9:46:40 下午 edu.is.util.LkUtil pingDan
+信息: 当未知数只有2个时
+九月 16, 2022 9:46:40 下午 edu.is.util.LkUtil pingDan
+信息: 当未知数只有3个时
+九月 16, 2022 9:46:40 下午 edu.is.util.LkUtil pingDan
+信息: 当未知数只有4个时
+九月 16, 2022 9:46:41 下午 edu.is.util.LkUtil pingDan
+信息: 当未知数只有5个时
+九月 16, 2022 9:46:41 下午 edu.is.util.ExcelUtil writeExcel
+信息: 开始写入excelD:\配平项目\output.xlsx
+九月 16, 2022 9:46:41 下午 edu.is.util.ExcelUtil writeExcel
+信息: 写入成功
+九月 16, 2022 9:46:41 下午 edu.is.main.Main main
+信息: 完成主类
+九月 16, 2022 9:47:24 下午 edu.is.util.ExcelUtil readExcel
+信息: 开始读取excel文件peiping.xlsx
+九月 16, 2022 9:47:25 下午 edu.is.util.ExcelUtil readExcel
+信息: 读取成功
+九月 16, 2022 9:47:25 下午 edu.is.util.LkUtil pingDan
+信息: 开始拼单
+九月 16, 2022 9:47:25 下午 edu.is.util.LkUtil pingDan
+信息: 当未知数只有一个时
+九月 16, 2022 9:47:25 下午 edu.is.util.LkUtil pingDan
+信息: 当未知数只有2个时
+九月 16, 2022 9:47:25 下午 edu.is.util.LkUtil pingDan
+信息: 当未知数只有3个时
+九月 16, 2022 9:47:25 下午 edu.is.util.LkUtil pingDan
+信息: 当未知数只有4个时
+九月 16, 2022 9:47:25 下午 edu.is.util.LkUtil pingDan
+信息: 当未知数只有5个时
+九月 16, 2022 9:47:25 下午 edu.is.util.ExcelUtil writeExcel
+信息: 开始写入excelD:\配平项目\output.xlsx
+九月 16, 2022 9:47:25 下午 edu.is.util.ExcelUtil writeExcel
+信息: 写入成功
+九月 16, 2022 9:47:25 下午 edu.is.main.Main main
+信息: 完成主类
+九月 27, 2022 8:21:22 上午 edu.is.util.ExcelUtil readExcel
+信息: 开始读取excel文件peiping.xlsx
+九月 27, 2022 8:21:23 上午 edu.is.util.ExcelUtil readExcel
+信息: 读取成功
+九月 27, 2022 8:21:23 上午 edu.is.util.LkUtil pingDan
+信息: 开始拼单
+九月 27, 2022 8:21:23 上午 edu.is.util.LkUtil pingDan
+信息: 当未知数只有一个时
+九月 27, 2022 8:21:23 上午 edu.is.util.LkUtil pingDan
+信息: 当未知数只有2个时
+九月 27, 2022 8:21:23 上午 edu.is.util.LkUtil pingDan
+信息: 当未知数只有3个时
+九月 27, 2022 8:21:23 上午 edu.is.util.LkUtil pingDan
+信息: 当未知数只有4个时
+九月 27, 2022 8:21:23 上午 edu.is.util.LkUtil pingDan
+信息: 当未知数只有5个时
+九月 27, 2022 8:21:23 上午 edu.is.util.ExcelUtil writeExcel
+信息: 开始写入excelD:\配平项目\output.xlsx
+九月 27, 2022 8:21:23 上午 edu.is.util.ExcelUtil writeExcel
+信息: 写入成功
+九月 27, 2022 8:21:23 上午 edu.is.main.Main main
+信息: 完成主类
